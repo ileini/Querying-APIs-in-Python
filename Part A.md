@@ -47,14 +47,14 @@ Let's take a look at a different web API with a bit more information. The Intern
 
 `print(iss.text)`
 
-The console shpould show that there are a **lot** more words and symols. Since the data is in a text format, we could attempt to read it but it would resemble reading an essay without line spacing, indentation or paragraphs. We would likely get a headache while trying to decipher all of the words! We need to **format** the data in order to read through it with ease.
+The console should show that there are a **lot** more words and symols. Since the data is in a text format, we could attempt to read it but it would resemble reading an essay without line spacing, indentation or paragraphs. We would likely get a headache while trying to decipher all of the words! We need to **format** the data in order to read through it with ease.
 
 ### Part 3: JSON 
 json (javascript object notation) is a text format that stores and formats data in a way that is easily understandable.  In order to use json, we must first import it.
 
 `import json`
 
-Once json is imported, create a function that uses json to format the data. More information on formating data with json can be found a this w3schools link "https://www.w3schools.com/python/python_json.asp" . 
+Once json is imported, create a function that uses json to format the data. More information on formating data with json can be found at this w3schools link "https://www.w3schools.com/python/python_json.asp" . 
 
 The function we create should take in a variable:
 `def buzz(lightyear):` 
