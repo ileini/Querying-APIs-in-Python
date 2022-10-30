@@ -1,0 +1,5 @@
+### Slack Message for Team A:
+Hi Team A! On day one most of your students were in their comfort or learning zone and had an enjoyable day which is great news! Your decision to maximize the use of breakout rooms for pair programming during labs met the needs of the two students who were in the panic zone. This was a great choice which resulted in everyone being in their learning/comfort zone and having an enjoyable day two. Consider allowing student pairs who were in their comfort zone to work on a challenging lab during breakout room sessions.
+
+### Slack Message for Manager:
+Hi Manager! Based on the data, Team B could really use my support on day three. While there were two panic zones, the majority of students had an enjoyable day one. Their students responded well to the amount of support they recieved in breakout rooms on day one. On day 2, the number of panic zones increased and the majority of students felt the day was medium or hard. I'd like to help them think through how to support their students in the panic zone and challenge their students in the comfort zone.
